@@ -1,8 +1,7 @@
 ---
-title: zezedzeqdze
+title: My Docker Car
 price: '12'
-description: fzezef
+description: Works not so bad.
 ---
 
-![null](/content/docker.png)
-
+![DOCKER](/content/assets/docker.png)

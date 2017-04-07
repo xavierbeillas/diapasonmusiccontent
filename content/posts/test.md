@@ -1,5 +1,5 @@
 ---
-title: test phenomic
+title: testphenomic
 description: dezd
 ---
 
